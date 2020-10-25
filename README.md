@@ -12,3 +12,5 @@ Manjaro setup:
 1. Set CMake install prefix to /usr/local.
 1. Configure
 1. Generate
+1. make all
+1. sudo make install
