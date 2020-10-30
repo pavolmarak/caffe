@@ -1,7 +1,7 @@
 # Building caffe
 Fork oficialneho repozitara s opravami pre OpenCV4.
 
-Manjaro setup:
+Manjaro Linux OS setup:
 
 1. Clone the repo.
 1. Run cmake-gui
