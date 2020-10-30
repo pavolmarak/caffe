@@ -1,4 +1,6 @@
-# Caffe
+# Building caffe
+Fork oficialneho repozitara s opravami pre OpenCV4.
+
 Manjaro setup:
 
 1. Clone the repo.
